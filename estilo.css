@@ -7,6 +7,21 @@
 body {
 background-color: rgb(152, 145, 249);
 }
+.ajuda {
+    padding: 30px 190px;
+    font-size: 30px;
+  }
+.ajuda2 {
+    padding: 10px 530px;
+    font-size: 30px;
+}
+.ajuda1 {
+    padding: 50px 700px;
+    font-size: 30px;
+}
+.introdução {
+    padding: 10px 12px;
+}
 
 footer {
     background-color: rgb(72, 0, 240);
