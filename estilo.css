@@ -4,23 +4,35 @@
 @import url(destop.css);
 @import url(tv.css);
 
+:root{
+    --fundo-escuro: rgb(0,0,251,1);
+    --fundo-claro: rgb(158, 157, 218);
+    --fonte-clara: rgb(255, 255, 255);
+    --fonte-escura: rgb(20, 8, 68);
+    --hover-claro: rgb(99, 144, 186);
+    --hover-escuro: rgb(6, 32, 56);
+}
+
 body {
 background-color: rgb(152, 145, 249);
 }
 .ajuda {
-    padding: 30px 190px;
+    padding: 30px 180px;
     font-size: 30px;
   }
 .ajuda2 {
-    padding: 10px 530px;
+    padding: 18px 530px;
     font-size: 30px;
 }
 .ajuda1 {
-    padding: 50px 700px;
+    padding: 30px 530px;
     font-size: 30px;
 }
 .introdução {
-    padding: 10px 12px;
+    padding: 0px 12px;
+}
+.primeiro {
+    padding: 10px 10px ;
 }
 
 footer {
@@ -31,8 +43,13 @@ footer {
     padding: 5px 10px;
 }
 #logo {
-    width: 200px;
-    height: 100px;
+    width: 130px;
+    height: 130px;
+}
+.links {
+    background-color: aliceblue;
+    width: 400px;
+    padding: 10px;
 }
 .inicio {
     background-color:rgb(152, 145, 249) ;
