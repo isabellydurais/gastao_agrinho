@@ -7,7 +7,7 @@ body {
 }
   
   :root{
-      --fundo-escuro: rgb(61, 50, 255);
+      --fundo-escuro: rgb(0,0,255,1);
       --fundo-claro: rgb(158, 157, 218);
       --fonte-clara: rgb(255, 255, 255);
       --fonte-escura: rgb(20, 8, 68);
